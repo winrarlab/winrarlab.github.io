@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /wp-content/themes/
+Allow: /wp-includes/js/
+Allow: /wp-content/js/
+Allow: /wp-includes/images/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin
+
+User-agent: Yandex
+Allow: /wp-content/themes/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+Allow: /wp-content/js/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin
+Disallow: /file
+
+host: https://winrarlab.github.io
+
+Sitemap: https://winrarlab.github.io/sitemap.xml
