@@ -1,6 +1,6 @@
 # Winrar x64, x32
 <img src="https://github.com/winrarlab/winrar.png" alt="WinRar">
-![alt text](https://github.com/winrarlab/winrar.png)
+<img src="https://i.imgur.com/k4ZYqy7.png" width="300">
 Программа WinRAR позволяет создавать обычные и самораспаковывающиеся архивы за несколько секунд. Универсальный архиватор используется для решения домашних и профессиональных задач, работает со всеми форматами архивов.
 
 СКАЧАТЬ WINRAR БЕСПЛАТНО НА РУССКОМ С ЛИЦЕНЗИЕЙ
