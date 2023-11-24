@@ -1,17 +1,6 @@
 User-agent: *
-Allow: /wp-content/themes/
-Allow: /wp-includes/js/
-Allow: /wp-content/js/
-Allow: /wp-includes/images/
-Disallow: /wp-admin/
 
 User-agent: Yandex
-Allow: /wp-content/themes/
-Allow: /wp-includes/js/
-Allow: /wp-includes/images/
-Allow: /wp-content/js/
-Disallow: /wp-admin/
-
 
 host: https://winrarlab.github.io
 
